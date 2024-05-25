@@ -1,6 +1,6 @@
 # Application De geolocalisation de Flotte de vehicule
 
-![logo](img/GEO.png)
+![logo](img/GEO.jpeg)
 
 Cet article présente notre plateforme conviviale pour la gestion de flotte de véhicules, visant à améliorer la manière dont les entreprises suivent et organisent leur flotte. Notre objectif est de simplifier la planification, de créer des itinéraires personnalisés et d'augmenter l'efficacité pour les gestionnaires et les conducteurs.
 
@@ -208,11 +208,11 @@ Maintenant, votre projet full-stack devrait être opérationnel localement. En c
 
 Nous visons à présenter une solution de planification basée sur les préférences et les contraintes de localisation de la flotte de véhicules,répondant aux besoins stratégiques des entreprises dans le domaine de la logistique et du transport.
 
-![admin](img/Localisation.png)
+![admin](img/Localisation.jpeg)
 Figure 2: Interface (Localisation)
 
 Cet interface c'est ou on peut visualiser les vehicules avec leur Matricule,type et leur etat(actif,en panne,en reparation)
-![planning](img/Trajet.png)
+![planning](img/Trajet.jpeg)
 
 Figure 3: Interface trajet
 
