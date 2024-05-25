@@ -1,4 +1,4 @@
-# SmartBendEd_Plateform project
+# Application De geolocalisation de Flotte de vehicule
 
 ![logo](img/GEO.png)
 
