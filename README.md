@@ -221,7 +221,7 @@ Dans cet interface on peut visualiser le trajet d'un vehicule specifique en prec
 # Video Demonstration
 
 Click the link below to watch a demonstration video:
-[![Watch the video](https://github.com/niperia/Documentation_Geo/main/assets/thevideo.mp4)]
+[Watch the video]
 
 ## Contributors
 
